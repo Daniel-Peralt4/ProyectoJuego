@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\bin\Debug\RompeCoco.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\bin\Debug\RompeCoco.exe
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\bin\Debug\RompeCoco.pdb
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\obj\Debug\RompeCoco.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\obj\Debug\RompeCoco.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\obj\Debug\RompeCoco.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\obj\Debug\RompeCoco.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\obj\Debug\RompeCoco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\obj\Debug\RompeCoco.exe
+C:\Users\Usuario\OneDrive\Escritorio\PRACTICA C#\Jueguito\RompeCoco\obj\Debug\RompeCoco.pdb
